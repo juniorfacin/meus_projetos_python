@@ -1,4 +1,4 @@
-from funcoes import *
+from funcoes_dicionarios import *
 
 usuarios={}
 
